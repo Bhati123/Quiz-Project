@@ -23,7 +23,7 @@ public :
 class menu
 {
 public :
-		void main_menu(void) ;
+		void main_menu(void) ;//bsjdjajd
 		char *sub_menu(void) ;
 		void start(void) ;
 private :
